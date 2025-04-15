@@ -1,7 +1,6 @@
 import math
 def line():
     
-
     A = float(input("Ingrese el coeficiente A:"))
     B = float(input("Ingrese el coeficiente B:"))
     x1 = float(input("Ingrese el coeficiente x1:"))
@@ -10,7 +9,7 @@ def line():
     print(f"El coeficiente B de su ecuación de la recta es: {B}")
     print(f"El coeficiente x1 de su ecuación de la recta es: {x1}")
     print(f"El coeficiente x2 de su ecuación de la recta es: {x2}")
-
+    
     print(f"\nPara la siguiente ecuación:\n\tY = {A}X + {B}")
 
     Y1 = (A*X1 + B)
