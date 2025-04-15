@@ -11,7 +11,7 @@ def line():
     print(f"El coeficiente x1 de su ecuación de la recta es: {x1}")
     print(f"El coeficiente x2 de su ecuación de la recta es: {x2}")
 
-    print(f"\nPara la siguiente ecuación: \n\tY = {A}X + {B}")
+    print(f"\nPara la siguiente ecuación:\n\tY = {A}X + {B}")
 
     Y1 = (A*X1 + B)
     Y2 = (A*X2 + B)
